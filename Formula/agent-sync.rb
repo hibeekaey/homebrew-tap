@@ -1,8 +1,8 @@
 class AgentSync < Formula
   desc "Synchronize your AI coding agents' memory across agents"
   homepage "https://github.com/hibeekaey/agent-sync"
-  url "https://github.com/hibeekaey/agent-sync/archive/refs/tags/v1.5.1.tar.gz"
-  sha256 "b20c724dc03d132b4a5b7632219152668514723e58a7597208fb04a76e298754"
+  url "https://github.com/hibeekaey/agent-sync/archive/refs/tags/v1.5.2.tar.gz"
+  sha256 "ad460c94c37473c03b10b1c8baeedeef246dd732596bab77cffc72b6f086fe4a"
   license "MIT"
 
   def install
